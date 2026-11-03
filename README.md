@@ -1,1 +1,1 @@
-# kaggle--playground-series-s6e10
+# kaggle-playground-series-s6e10
